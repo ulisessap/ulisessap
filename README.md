@@ -73,7 +73,7 @@ My name is Ulises Anaya, I'm a Computer Science Student
   </a>
 
   <a href="https://www.metasploit.com/">
-    <img src="images/metasploit.png" width="120"/>
+    <img src="images/metasploit.png" width="150"/>
   </a>
    
 </p>
