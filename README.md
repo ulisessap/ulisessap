@@ -45,7 +45,7 @@ My name is Ulises Anaya, I'm a Computer Science Student
 
 </p>
 
-### Tools
+### **Tools**
 <p align="center">
    <a href="https://git-scm.com/">
     <img src="images/git_logo.png" width="50"/>
