@@ -31,16 +31,12 @@ My name is Ulises Anaya, I'm a Computer Science Student
     <img src="images/html_logo.png" width="50"/>
   </a>
 
-   <a href="https://es.wikipedia.org/wiki/HTML">
-    <img src="images/html_logo.png" width="50"/>
-  </a>
-
    <a href="https://es.wikipedia.org/wiki/CSS">
     <img src="images/css_logo.png" width="50"/>
   </a>
 
    <a href="https://es.wikipedia.org/wiki/JavaSript">
-    <img src="images/javaScript_logo.png" width="50"/>
+    <img src="images/javaScriptlogo.png" width="50"/>
   </a>
 
   <a href="https://es.wikipedia.org/wiki/TypeSript">
