@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 My name is Ulises Anaya, I'm a Computer Science Student
 ## Skills 
 ### Programming Languages
-[![Python Logo][<img src="images/python_logo.png" width="50"/>](https://es.wikipedia.org/wiki/Python_(lenguaje_de_programación))
+[Python][<img src="images/python_logo.png" width="50"/>](https://es.wikipedia.org/wiki/Python_(lenguaje_de_programación))
+[Java][<img src="images/java_logo.png" width="50"/>](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
 
 
 
