@@ -39,7 +39,7 @@ My name is Ulises Anaya, I'm a Computer Science Student
     <img src="images/javaScriptlogo.png" width="50"/>
   </a>
 
-  <a href="https://es.wikipedia.org/wiki/TypeSript">
+  <a href="https://es.wikipedia.org/wiki/TypeScript">
     <img src="images/typescript_logo.png" width="50"/>
   </a>
 
@@ -54,6 +54,12 @@ My name is Ulises Anaya, I'm a Computer Science Student
   <a href="https://github.com/">
     <img src="images/github_logo.png" width="50"/>
   </a>
+
+   <a href="https://www.docker.com/">
+    <img src="images/docker_logo.png" width="50"/>
+  </a>
+
+  
    
 </p>
 
