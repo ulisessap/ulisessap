@@ -43,7 +43,30 @@ My name is Ulises Anaya, I'm a Computer Science Student
     <img src="images/typescript_logo.png" width="50"/>
   </a>
 
+</p>
+
+### Tools
+<p align="center">
+   <a href="https://git-scm.com/">
+    <img src="images/git_logo.png" width="50"/>
+  </a>
   
+  <a href="https://github.com/">
+    <img src="images/github_logo.png" width="50"/>
+  </a>
+   
+</p>
+
+## Contact
+<p align="center">
+   <a href="https://www.instagram.com/ulisess_ap/">
+    <img src="images/instagram_logo.png" width="50"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ulises-anaya-12808b27b/">
+    <img src="images/linkedin_logo.png" width="50"/>
+  </a>
+   
 </p>
 
 
