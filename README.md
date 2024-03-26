@@ -60,11 +60,11 @@ My name is Ulises Anaya, I'm a Computer Science Student
 ## Contact
 <p align="center">
    <a href="https://www.instagram.com/ulisess_ap/">
-    <img src="images/instagram_logo.png" width="50"/>
+    <img src="images/Instagram_logo.png" width="50"/>
   </a>
   
   <a href="https://www.linkedin.com/in/ulises-anaya-12808b27b/">
-    <img src="images/linkedin_logo.png" width="50"/>
+    <img src="images/linkedin.png" width="50"/>
   </a>
    
 </p>
