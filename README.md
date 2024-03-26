@@ -69,11 +69,11 @@ My name is Ulises Anaya, I'm a Computer Science Student
   </a>
   
   <a href="https://www.wireshark.org/">
-    <img src="images/wireshark_logo.png" width="50"/>
+    <img src="images/wireshark_logo.png" width="80"/>
   </a>
 
   <a href="https://www.metasploit.com/">
-    <img src="images/metasploit.png" width="50"/>
+    <img src="images/metasploit.png" width="80"/>
   </a>
    
 </p>
