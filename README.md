@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋 🤸🏻‍♂️
 
 <!--
 **ulisessap/ulisessap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Ulises Anaya, I'm a Computer Science Student
-## Skills ⚡ 
-### Programming Languages
+## Skills ⚡ 👨‍💻
+### Programming Languages 💻
 <p align="center">
    
    <a href="https://es.wikipedia.org/wiki/Python_(lenguaje_de_programación)">
@@ -45,7 +45,7 @@ My name is Ulises Anaya, I'm a Computer Science Student
 
 </p>
 
-### **Tools**
+### **Tools** ⚒️
 <p align="center">
    <a href="https://git-scm.com/">
     <img src="images/git_logo.png" width="50"/>
@@ -59,11 +59,12 @@ My name is Ulises Anaya, I'm a Computer Science Student
     <img src="images/docker_logo.png" width="50"/>
   </a>
 
-  
    
 </p>
 
-## Contact
+### Cybersecurity tools ⚔️
+
+## Contact ✉️
 <p align="center">
    <a href="https://www.instagram.com/ulisess_ap/">
     <img src="images/Instagram_logo.png" width="50"/>
