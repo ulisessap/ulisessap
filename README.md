@@ -26,6 +26,28 @@ My name is Ulises Anaya, I'm a Computer Science Student
   <a href="https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)">
     <img src="images/java_logo.png" width="50"/>
   </a>
+
+   <a href="https://es.wikipedia.org/wiki/HTML">
+    <img src="images/html_logo.png" width="50"/>
+  </a>
+
+   <a href="https://es.wikipedia.org/wiki/HTML">
+    <img src="images/html_logo.png" width="50"/>
+  </a>
+
+   <a href="https://es.wikipedia.org/wiki/CSS">
+    <img src="images/css_logo.png" width="50"/>
+  </a>
+
+   <a href="https://es.wikipedia.org/wiki/JavaSript">
+    <img src="images/javaScript_logo.png" width="50"/>
+  </a>
+
+  <a href="https://es.wikipedia.org/wiki/TypeSript">
+    <img src="images/typescript_logo.png" width="50"/>
+  </a>
+
+  
 </p>
 
 
