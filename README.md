@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Ulises Anaya, I'm a Computer Science Student
-## Skills 
+## Skills ⚡ 
 ### Programming Languages
 <p align="center">
    
