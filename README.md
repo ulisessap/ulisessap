@@ -59,6 +59,15 @@ My name is Ulises Anaya, I'm a Computer Science Student
     <img src="images/docker_logo.png" width="50"/>
   </a>
 
+   <a href="https://es.wikipedia.org/wiki/LaTeX">
+    <img src="images/latex.png" width="50"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Overleaf">
+    <img src="images/overleaf.png" width="50"/>
+  </a>
+   
+
    
 </p>
 
