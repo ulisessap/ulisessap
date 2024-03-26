@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Ulises Anaya, I'm a Computer Science Student
 ## Skills
+### Programming Languages
+[![Python Logo](images/python_logo.png)](https://es.wikipedia.org/wiki/Python_(lenguaje_de_programación))
+
 
 
