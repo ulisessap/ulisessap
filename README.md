@@ -86,7 +86,7 @@ My name is Ulises Anaya, I'm a Computer Science Student
   </a>
 
   <a href="https://portswigger.net/burp">
-    <img src="images/burp_logo.png" width="50"/>
+    <img src="images/burp_logo.png" width="45"/>
   </a>
    
 </p>
